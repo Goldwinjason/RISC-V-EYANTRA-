@@ -5,7 +5,7 @@ The project includes RTL code, simulation testbenches, project files, and suppor
 
 ---
 
-## 📘 Project Overview  
+##  Project Overview  
 
 The objective of this task was to:
 
@@ -24,13 +24,13 @@ This project demonstrates understanding of processor architecture, digital logic
 
 ---
 
-## 🏗️ **RISC-V Architecture**
+##  **RISC-V Architecture**
 
 ![RISC-V Architecture](RISC_V_Architecture.jpg)
 
 ---
 
-## ⚙️ Features Implemented  
+##  Features Implemented  
 
 ✔ RV32I instruction support  
 ✔ Modular design: register file, ALU, control unit, PC logic, memory interface  
@@ -65,7 +65,7 @@ The CPU supports common **RV32I** instructions such as:
 
 ---
 
-## 🧪 Simulation & Testing  
+##  Simulation & Testing  
 
 Test programs located in `.test/` are used to verify:
 
